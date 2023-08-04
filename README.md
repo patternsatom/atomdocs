@@ -1,1 +1,1 @@
-# atomdocs.github.io
+# atomdocs
